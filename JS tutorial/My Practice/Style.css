@@ -1,0 +1,47 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: sandybrown;
+}
+
+div {
+  margin: 10px;
+}
+
+.card {
+  height: auto;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: rgb(30, 129, 210);
+  color: rgb(235, 155, 108);
+  box-shadow: 5px 5px 5px lightslategray;
+}
+
+h2 {
+  color: rgb(18, 14, 61);
+}
+
+input {
+  border-radius: 3px;
+  border: transparent;
+  height: 20px;
+  width: 20%;
+  margin: 5px;
+}
+
+label {
+  display: block;
+}
+
+button {
+  padding: 5px;
+  width: 80px;
+  background-color: rgb(202, 93, 4);
+  border: none;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: cadetblue;
+  color: wheat;
+  cursor: pointer;
+}
